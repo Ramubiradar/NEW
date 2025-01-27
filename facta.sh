@@ -11,5 +11,6 @@ do
 		i=`expr $i - 1`
 	done
 	echo "factorial of $temp is $result"
+ echo "Sucess !"
 done
 
